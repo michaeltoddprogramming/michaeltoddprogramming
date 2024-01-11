@@ -18,4 +18,5 @@
        - HTML
        - CSS
        - Linux
+       - Powershell
 
