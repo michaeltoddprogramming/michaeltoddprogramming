@@ -2,7 +2,7 @@
 
     👯 I’m looking to collaborate on: New ChatGPT Store Programs
 
-    📫 How to reach me: toddtech@skiff.com
+    📫 How to reach me: michaeltodd@colourmultimedia.com
     
     🖥️ Programming skills:
        - Python
