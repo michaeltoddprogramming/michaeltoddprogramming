@@ -20,3 +20,4 @@
        - Linux
        - Powershell
 
+<figure><embed src="https://wakatime.com/share/@018d5746-4789-4e85-83ff-efc605552b99/af0d705b-11c3-459e-8d9f-a5967970cee2.svg"></embed></figure>
