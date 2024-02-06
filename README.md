@@ -20,5 +20,5 @@
        - Linux
        - Powershell
 <p align="center">
-  <img src="https://wakatime.com/share/@018d5746-4789-4e85-83ff-efc605552b99/af0d705b-11c3-459e-8d9f-a5967970cee2.svg" alt="Total time coded since January 31st 2024" />
+  <img src="https://wakatime.com/share/@018d5746-4789-4e85-83ff-efc605552b99/4f3e8472-f827-4b56-ab87-c625ac0f345f.svg" alt="Total time coded in the Last 30 Days" />
 </p>
