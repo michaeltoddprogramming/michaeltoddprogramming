@@ -9,7 +9,6 @@
        - JavaScript
        - PHP
        - Node.js
-       - Nginx
        - LAMP stack
        - Vite
        - Use Linode for hosting and VPN
