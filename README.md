@@ -1,6 +1,6 @@
-    🔭 I’m currently working on: Laravel PHP
+    🔭 I’m currently working on: Laravel PHP - For Business Portals and EDMS
 
-    👯 I’m looking to collaborate on: New ChatGPT Store Programs
+    👯 I’m looking to collaborate on: Things that make money 
 
     📫 How to reach me: michaeltodd@colourmultimedia.com
     
