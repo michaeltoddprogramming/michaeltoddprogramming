@@ -2,7 +2,7 @@
 
     👯 I’m looking to collaborate on: Things that make money 
 
-    📫 How to reach me: michaeltodd@colourmultimedia.com or helpdesk@colourmultimedia.com for client based issues
+    📫 How to reach me: michaeltodd981@gmail.com
     
     🖥️ Programming skills:
        - C++
