@@ -1,6 +1,6 @@
-    🔭 I’m currently working on: Laravel PHP - For Business Portals and EDMS
+    🔭 I’m currently working on: New TD type game, with a day/night cycle - Day is farming - Night is defending - Both affect eachother
 
-    👯 I’m looking to collaborate on: Things that make money 
+    👯 I’m looking to collaborate on: Game Dev - Unity 6
 
     📫 How to reach me: michaeltodd981@gmail.com
     
